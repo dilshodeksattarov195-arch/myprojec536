@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersrocess",
+        "uuid": 3696256,
+        "checksum": "mkopto"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
